@@ -13,8 +13,8 @@ I put this together to practice containerizing a Python backend with Docker, kee
 * **Submit Tickets:** Send in a support issue and get back a unique ticket ID (like `TICK-85569`).
 * **Track Status:** Check on open tickets using their ID.
 
-![page1](./page1.png)
-![page2](./page2.png)
+![page1](./screenshots/page1.png)
+![page2](./screenshots/page2.png)
 
 ---
 
